@@ -1,224 +1,225 @@
 .,Spanish
 quest.name,El Baile de Medianoche
-quest.description,Los jugadores deben desentraÃ±ar el misterio de la desapariciÃ³n del anfitriÃ³n durante una fiesta en una mansiÃ³n atrapada en el tiempo. Interactuar con los invitados serÃ¡ clave para descubrir el peligro que los rodea y encontrar la forma de romper la maldiciÃ³n... antes de que sea demasiado tarde...
+quest.description,Los jugadores deben desentrañar el misterio de la desaparición del anfitrión durante una fiesta en una mansión atrapada en el tiempo. Interactuar con los invitados será clave para descubrir el peligro que los rodea y encontrar la forma de romper la maldición... antes de que sea demasiado tarde...
 quest.synopsys,Una fiesta detenida en el tiempo. El peligro acecha. Descubre el misterio antes del final.
 quest.authors,Nehuen Fortes
 
 ; ===== EVENTO INICIAL =====
-Event_Event_inicio.text,"Una sensaciÃ³n de pesadez te invade mientras tus ojos se abren lentamente. El eco de una mÃºsica lejana resuena en tus oÃ­dos, pero algo no estÃ¡ bien. El aire es denso, y los relojes... <b>todos estÃ¡n detenidos a las 11:47</b>.\n\nMiras a tu alrededor: estÃ¡s en una mansiÃ³n <color=#ff0000ff>opulenta</color>, llena de lujo y decadencia, pero la atmÃ³sfera es <color=#ff0000ff>sofocante</color>. Los invitados se mueven como autÃ³matas, repitiendo las mismas conversaciones.\n\nRecuerdas que venÃ­as a una fiesta, pero los detalles son borrosos. Y entonces te das cuenta: JoaquÃ­n, el anfitriÃ³n, <b>no estÃ¡ por ninguna parte</b>.\n\nDebes encontrarlo, pero mÃ¡s importante aÃºn: descubrir quÃ© estÃ¡ pasando <b>antes de que el reloj marque las 12:00</b>..."
+Event_Event_inicio.text,"Una sensación de pesadez te invade mientras tus ojos se abren lentamente. El eco de una música lejana resuena en tus oídos, pero algo no está bien. El aire es denso, y los relojes... <b>todos están detenidos a las 11:47</b>.\n\nMiras a tu alrededor: estás en una mansión <color=#ff0000ff>opulenta</color>, llena de lujo y decadencia, pero la atmósfera es <color=#ff0000ff>sofocante</color>. Los invitados se mueven como autómatas, repitiendo las mismas conversaciones.\n\nRecuerdas que venías a una fiesta, pero los detalles son borrosos. Y entonces te das cuenta: Joaquín, el anfitrión, <b>no está por ninguna parte</b>.\n\nDebes encontrarlo, pero más importante aún: descubrir qué está pasando <b>antes de que el reloj marque las 12:00</b>..."
 Event_Event_inicio.button1,Continuar
 
 ; ===== EVENTOS DE MYTHOS =====
-Event_Ronda_3.text,"Las luces <color=#ff0000ff>parpadean violentamente</color>. Un sonido como cristal rompiÃ©ndose resuena por toda la mansiÃ³n. Los invitados no parecen notarlo...\n\n<i>Algo maligno se ha despertado en la mansiÃ³n.</i>"
+Event_Ronda_3.text,"Las luces <color=#ff0000ff>parpadean violentamente</color>. Un sonido como cristal rompiéndose resuena por toda la mansión. Los invitados no parecen notarlo...\n\n<i>Algo maligno se ha despertado en la mansión.</i>"
 Event_Ronda_3.button1,Continuar
 
-Event_Ronda_5.text,"Un golpe sordo desde el sÃ³tano hace <b>temblar el suelo</b>. Una puerta que antes estaba cerrada ahora estÃ¡ entreabierta...\n\n<i>Â¿Te atreves a descender?</i>"
+Event_Ronda_5.text,"Un golpe sordo desde el sótano hace <b>temblar el suelo</b>. Una puerta que antes estaba cerrada ahora está entreabierta...\n\n<i>¿Te atreves a descender?</i>"
 Event_Ronda_5.button1,Continuar
 
-Event_Ronda_7.text,"La mÃºsica se detiene bruscamente. En el silencio, se escucha una <color=#ff0000ff>respiraciÃ³n</color> que no pertenece a nadie visible... El DJ (Enzo) estÃ¡ <b>rÃ­gido como una estatua</b>."
+Event_Ronda_7.text,"La música se detiene bruscamente. En el silencio, se escucha una <color=#ff0000ff>respiración</color> que no pertenece a nadie visible... El DJ (Enzo) está <b>rígido como una estatua</b>."
 Event_Ronda_7.button1,Continuar
 
-Event_Ronda_9.text,"Los relojes comenzaron a moverse... <b>Â¡hacia atrÃ¡s!</b> 11:46... 11:45... Si llegan a 11:30, algo terrible pasarÃ¡.\n\n<color=#ff0000ff>El tiempo estÃ¡ colapsando.</color>"
+Event_Ronda_9.text,"Los relojes comenzaron a moverse... <b>¡hacia atrás!</b> 11:46... 11:45... Si llegan a 11:30, algo terrible pasará.\n\n<color=#ff0000ff>El tiempo está colapsando.</color>"
 Event_Ronda_9.button1,Continuar
 
-Event_Ronda_12.text,"<b>11:30 exactos</b>. Los invitados desaparecen uno por uno como humo. Solo quedan ustedes... y las <color=#ff0000ff>voces desde el sÃ³tano</color>."
+Event_Ronda_12.text,"<b>11:30 exactos</b>. Los invitados desaparecen uno por uno como humo. Solo quedan ustedes... y las <color=#ff0000ff>voces desde el sótano</color>."
 Event_Ronda_12.button1,Continuar
 
 ; ===== JULI - EVENTOS =====
-JuliAcercarse.text,"Juli estÃ¡ parada cerca del piano, con los ojos cerrados y una expresiÃ³n de concentraciÃ³n. Al acercarte, abre los ojos lentamente.\n\n<i>'Hay algo extraÃ±o aquÃ­... Las sombras se mueven como si estuvieran atrapadas repitiendo el mismo baile una y otra vez.'</i>\n\nSus manos tiemblan ligeramente, como si estuviera percibiendo algo que tÃº no puedes ver."
+JuliAcercarse.text,"Juli está parada cerca del piano, con los ojos cerrados y una expresión de concentración. Al acercarte, abre los ojos lentamente.\n\n<i>'Hay algo extraño aquí... Las sombras se mueven como si estuvieran atrapadas repitiendo el mismo baile una y otra vez.'</i>\n\nSus manos tiemblan ligeramente, como si estuviera percibiendo algo que tú no puedes ver."
 JuliAcercarse.button1,Continuar
 
-JuliPreguntarJoaquin.text,"Juli se lleva las manos a las sienes y cierra los ojos con fuerza.\n\n<i>'Veo flashes... JoaquÃ­n estÃ¡ gritando, pero no puedo oÃ­r sus palabras. EstÃ¡... Â¿entre las horas?'</i>\n\nCuando abre los ojos, hay lÃ¡grimas en ellos. <color=#ff0000ff>'EstÃ¡ sufriendo mucho. Necesita ayuda.'</color>"
+JuliPreguntarJoaquin.text,"Juli se lleva las manos a las sienes y cierra los ojos con fuerza.\n\n<i>'Veo flashes... Joaquín está gritando, pero no puedo oír sus palabras. Está... ¿entre las horas?'</i>\n\nCuando abre los ojos, hay lágrimas en ellos. <color=#ff0000ff>'Está sufriendo mucho. Necesita ayuda.'</color>"
 JuliPreguntarJoaquin.button1,Continuar
 
-JuliAyudaEspiritual.text,"Juli te mira intensamente, evaluando si puedes manejar la energÃ­a espiritual que estÃ¡ a punto de transferirte.\n\n<i>'Este poder puede protegerte, pero debes estar preparado. Â¿ConfÃ­as en mÃ­?'</i>"
+JuliAyudaEspiritual.text,"Juli te mira intensamente, evaluando si puedes manejar la energía espiritual que está a punto de transferirte.\n\n<i>'Este poder puede protegerte, pero debes estar preparado. ¿Confías en mí?'</i>"
 JuliAyudaEspiritual.button1,Aceptar la ayuda{action}
 JuliAyudaEspiritual.button2,Declinar educadamente
 
-JuliExito.text,"Juli coloca sus manos sobre las tuyas y un <color=#00ff00ff>colgante brillante</color> se materializa entre ustedes.\n\n<i>'Este colgante estÃ¡ imbuido con energÃ­a protectora. Te protegerÃ¡ una vez del horror mÃ¡s profundo.'</i>\n\nSientes una calidez reconfortante emanando del objeto."
+JuliExito.text,"Juli coloca sus manos sobre las tuyas y un <color=#00ff00ff>colgante brillante</color> se materializa entre ustedes.\n\n<i>'Este colgante está imbuido con energía protectora. Te protegerá una vez del horror más profundo.'</i>\n\nSientes una calidez reconfortante emanando del objeto."
 JuliExito.button1,Continuar
 
-JuliFallo.text,"Juli intenta canalizar la energÃ­a, pero algo interfiere. Ambos sienten una <color=#ff0000ff>presencia oscura</color> resistiendo el ritual.\n\n<i>'Hay algo aquÃ­ que no quiere que te protejas... Esto es mÃ¡s peligroso de lo que pensÃ©.'</i>"
+JuliFallo.text,"Juli intenta canalizar la energía, pero algo interfiere. Ambos sienten una <color=#ff0000ff>presencia oscura</color> resistiendo el ritual.\n\n<i>'Hay algo aquí que no quiere que te protejas... Esto es más peligroso de lo que pensé.'</i>"
 JuliFallo.button1,Continuar
 
-JuliVisionAvanzada.text,"Juli te mira con ojos llorosos, tomando tus manos entre las suyas.\n\n<i>'Nehuen me contÃ³ sobre el LoL de JoaquÃ­n... pero yo vi algo mÃ¡s en mis visiones. No era solo un juego... era el momento que decidiÃ³ hacer el <b>pacto</b>.'</i>\n\nSu voz tiembla: <color=#ff0000ff>'Vi a la entidad temporal... estÃ¡ sola... ha estado sola por eones.'</color>"
+JuliVisionAvanzada.text,"Juli te mira con ojos llorosos, tomando tus manos entre las suyas.\n\n<i>'Nehuen me contó sobre el LoL de Joaquín... pero yo vi algo más en mis visiones. No era solo un juego... era el momento que decidió hacer el <b>pacto</b>.'</i>\n\nSu voz tiembla: <color=#ff0000ff>'Vi a la entidad temporal... está sola... ha estado sola por eones.'</color>"
 JuliVisionAvanzada.button1,Continuar
 
-; ===== TOMÃS - EVENTOS =====
-TomasAcercarse.text,"TomÃ¡s estÃ¡ sentado en un sillÃ³n de cuero, examinando documentos con una lupa. Tiene una copa de whisky en la mano y una expresiÃ³n de profunda preocupaciÃ³n.\n\n<i>'Estos contratos... hay clÃ¡usulas muy extraÃ±as. Â¿QuiÃ©n firma algo asÃ­?'</i>\n\nTe muestra un documento con sÃ­mbolos que no logras identificar."
+; ===== TOMÁS - EVENTOS =====
+TomasAcercarse.text,"Tomás está sentado en un sillón de cuero, examinando documentos con una lupa. Tiene una copa de whisky en la mano y una expresión de profunda preocupación.\n\n<i>'Estos contratos... hay cláusulas muy extrañas. ¿Quién firma algo así?'</i>\n\nTe muestra un documento con símbolos que no logras identificar."
 TomasAcercarse.button1,Continuar
 
-TomasListaInvitados.text,"TomÃ¡s ajusta sus lentes y examina la lista con ojo crÃ­tico de abogado.\n\n<i>'Varios de estos nombres no existen en registros pÃºblicos. Y mira esta fecha...'</i>\n\nSeÃ±ala una fecha que estÃ¡ <b>tres dÃ­as en el futuro</b>. <color=#ff0000ff>'Â¿CÃ³mo es posible?'</color>"
+TomasListaInvitados.text,"Tomás ajusta sus lentes y examina la lista con ojo crítico de abogado.\n\n<i>'Varios de estos nombres no existen en registros públicos. Y mira esta fecha...'</i>\n\nSeñala una fecha que está <b>tres días en el futuro</b>. <color=#ff0000ff>'¿Cómo es posible?'</color>"
 TomasListaInvitados.button1,Continuar
 
-TomasIrregularidades.text,"TomÃ¡s te hace seÃ±as para que te acerques y te muestra un folder lleno de documentos legales.\n\n<i>'EncontrÃ© irregularidades masivas en los contratos de esta propiedad. Si puedo organizarlo correctamente, podrÃ­a serte muy Ãºtil.'</i>"
+TomasIrregularidades.text,"Tomás te hace señas para que te acerques y te muestra un folder lleno de documentos legales.\n\n<i>'Encontré irregularidades masivas en los contratos de esta propiedad. Si puedo organizarlo correctamente, podría serte muy útil.'</i>"
 TomasIrregularidades.button1,Ayudar a organizar{action}
 TomasIrregularidades.button2,No tienes tiempo
 
-TomasExito.text,"TomÃ¡s logra organizar los documentos y encuentra exactamente lo que buscaba.\n\n<i>'Â¡AquÃ­ estÃ¡! Este <b>Documento Notarial</b> puede anular ciertos tipos de contratos... incluso los sobrenaturales.'</i>\n\nTe entrega el documento oficial con sellos y firmas legÃ­timas."
+TomasExito.text,"Tomás logra organizar los documentos y encuentra exactamente lo que buscaba.\n\n<i>'¡Aquí está! Este <b>Documento Notarial</b> puede anular ciertos tipos de contratos... incluso los sobrenaturales.'</i>\n\nTe entrega el documento oficial con sellos y firmas legítimas."
 TomasExito.button1,Continuar
 
-TomasFallo.text,"Los documentos estÃ¡n mÃ¡s daÃ±ados de lo que parecÃ­a inicialmente.\n\n<i>'Lo siento, el deterioro temporal ha afectado la validez legal de estos papeles. No puedo hacer nada con esto.'</i>"
+TomasFallo.text,"Los documentos están más dañados de lo que parecía inicialmente.\n\n<i>'Lo siento, el deterioro temporal ha afectado la validez legal de estos papeles. No puedo hacer nada con esto.'</i>"
 TomasFallo.button1,Continuar
 
-TomasDocumentoFinal.text,"TomÃ¡s examina el cuadro familiar con ojo de experto legal y su expresiÃ³n se torna grave.\n\n<i>'Este testamento... JoaquÃ­n no era el heredero legÃ­timo. Su hermana Luli deberÃ­a ser la dueÃ±a de todo esto. Â¿Por quÃ© ella no sabe esto?'</i>\n\n<color=#ff0000ff>'Alguien ha estado ocultando informaciÃ³n legal crucial.'</color>"
+TomasDocumentoFinal.text,"Tomás examina el cuadro familiar con ojo de experto legal y su expresión se torna grave.\n\n<i>'Este testamento... Joaquín no era el heredero legítimo. Su hermana Luli debería ser la dueña de todo esto. ¿Por qué ella no sabe esto?'</i>\n\n<color=#ff0000ff>'Alguien ha estado ocultando información legal crucial.'</color>"
 TomasDocumentoFinal.button1,Continuar
 
 ; ===== LULI - EVENTOS =====
-LuliAcercarse.text,"Luli camina nerviosamente por la habitaciÃ³n, tocando los muebles como si fuera la primera vez que los ve.\n\n<i>'Mi hermano no harÃ­a esto... desaparecer asÃ­. Â¡Algo terrible ha pasado!'</i>\n\nSus ojos estÃ¡n rojos de haber llorado, pero mantiene la compostura."
+LuliAcercarse.text,"Luli camina nerviosamente por la habitación, tocando los muebles como si fuera la primera vez que los ve.\n\n<i>'Mi hermano no haría esto... desaparecer así. ¡Algo terrible ha pasado!'</i>\n\nSus ojos están rojos de haber llorado, pero mantiene la compostura."
 LuliAcercarse.button1,Continuar
 
-LuliPreguntarJoaquin.text,"Luli se sienta pesadamente en una silla y se cubre el rostro con las manos.\n\n<i>'Ãšltimamente estaba obsesionado con \"arreglar errores del pasado\". Hablaba de eso constantemente, pero no entendÃ­a quÃ© querÃ­a decir.'</i>\n\n<color=#ff0000ff>'ParecÃ­a... desesperado.'</color>"
+LuliPreguntarJoaquin.text,"Luli se sienta pesadamente en una silla y se cubre el rostro con las manos.\n\n<i>'Últimamente estaba obsesionado con \"arreglar errores del pasado\". Hablaba de eso constantemente, pero no entendía qué quería decir.'</i>\n\n<color=#ff0000ff>'Parecía... desesperado.'</color>"
 LuliPreguntarJoaquin.button1,Continuar
 
-LuliCurar.text,"Luli te mira con ojos compasivos y extiende sus manos hacia ti.\n\n<i>'Ven, dÃ©jame ayudarte. Los masajes pueden curar mÃ¡s que solo el cuerpo fÃ­sico.'</i>\n\nSientes una energÃ­a sanadora emanando de sus manos expertas."
-LuliCurar.button1,Aceptar curaciÃ³n
+LuliCurar.text,"Luli te mira con ojos compasivos y extiende sus manos hacia ti.\n\n<i>'Ven, déjame ayudarte. Los masajes pueden curar más que solo el cuerpo físico.'</i>\n\nSientes una energía sanadora emanando de sus manos expertas."
+LuliCurar.button1,Aceptar curación
 LuliCurar.button2,Declinar
 
-LuliCuracion.text,"Luli coloca sus manos sobre tus hombros y comienza un masaje suave pero efectivo.\n\n<i>'Mi hermano siempre decÃ­a que tengo manos mÃ¡gicas.'</i>\n\nSientes como la tensiÃ³n y el dolor abandonan tu cuerpo."
+LuliCuracion.text,"Luli coloca sus manos sobre tus hombros y comienza un masaje suave pero efectivo.\n\n<i>'Mi hermano siempre decía que tengo manos mágicas.'</i>\n\nSientes como la tensión y el dolor abandonan tu cuerpo."
 LuliCuracion.button1,Continuar
 
-LuliCuracionMejorada.text,"Luli nota el colgante espiritual y sus ojos se iluminan de reconocimiento.\n\n<i>'Este poder... lo reconozco. Juli y yo nos conocemos desde niÃ±as. Ella puede ver el pasado, yo puedo sentir el dolor presente.'</i>\n\nSu curaciÃ³n se vuelve increÃ­blemente poderosa, como si dos fuerzas espirituales trabajaran juntas."
+LuliCuracionMejorada.text,"Luli nota el colgante espiritual y sus ojos se iluminan de reconocimiento.\n\n<i>'Este poder... lo reconozco. Juli y yo nos conocemos desde niñas. Ella puede ver el pasado, yo puedo sentir el dolor presente.'</i>\n\nSu curación se vuelve increíblemente poderosa, como si dos fuerzas espirituales trabajaran juntas."
 LuliCuracionMejorada.button1,Continuar
 
-LuliRecuerdoFamiliar.text,"Luli se sienta y comparte recuerdos dolorosos de su hermano.\n\n<i>'JoaquÃ­n siempre fue obsesivo... desde niÃ±o. Cuando algo lo molestaba, no podÃ­a dejarlo ir.'</i>\n\nSus manos tiemblan: <color=#ff0000ff>'DespuÃ©s de perder esa partida de LoL, no durmiÃ³ por dÃ­as. DecÃ­a que habÃ­a arruinado todo.'</color>"
+LuliRecuerdoFamiliar.text,"Luli se sienta y comparte recuerdos dolorosos de su hermano.\n\n<i>'Joaquín siempre fue obsesivo... desde niño. Cuando algo lo molestaba, no podía dejarlo ir.'</i>\n\nSus manos tiemblan: <color=#ff0000ff>'Después de perder esa partida de LoL, no durmió por días. Decía que había arruinado todo.'</color>"
 LuliRecuerdoFamiliar.button1,Continuar
 
 ; ===== GONZALO - EVENTOS =====
-GonzaloAcercarse.text,"Gonzalo estÃ¡ examinando los cables elÃ©ctricos expuestos en la pared, con herramientas esparcidas a sus pies.\n\n<i>'Las luces estÃ¡n parpadeando de manera muy rara... y hay un zumbido elÃ©ctrico que no deberÃ­a estar ahÃ­.'</i>\n\nSe rasca la cabeza, claramente confundido por lo que estÃ¡ viendo."
+GonzaloAcercarse.text,"Gonzalo está examinando los cables eléctricos expuestos en la pared, con herramientas esparcidas a sus pies.\n\n<i>'Las luces están parpadeando de manera muy rara... y hay un zumbido eléctrico que no debería estar ahí.'</i>\n\nSe rasca la cabeza, claramente confundido por lo que está viendo."
 GonzaloAcercarse.button1,Continuar
 
-GonzaloElectricidad.text,"Gonzalo seÃ±ala hacia el panel elÃ©ctrico principal.\n\n<i>'Puedo intentar arreglar esto, pero va a ser complicado. La sobrecarga no sigue ningÃºn patrÃ³n lÃ³gico que conozca.'</i>\n\nÂ¿Quieres que lo intente?"
-GonzaloElectricidad.button1,SÃ­, intÃ©ntalo{action}
+GonzaloElectricidad.text,"Gonzalo señala hacia el panel eléctrico principal.\n\n<i>'Puedo intentar arreglar esto, pero va a ser complicado. La sobrecarga no sigue ningún patrón lógico que conozca.'</i>\n\n¿Quieres que lo intente?"
+GonzaloElectricidad.button1,Sí, inténtalo{action}
 GonzaloElectricidad.button2,Es muy peligroso
 
-GonzaloExito.text,"Gonzalo logra estabilizar el sistema elÃ©ctrico temporalmente. Las luces dejan de parpadear y la mansiÃ³n se siente menos opresiva.\n\n<i>'Esto deberÃ­a durar un rato, pero la fuente del problema sigue ahÃ­.'</i>\n\nLa atmÃ³sfera se aligera considerablemente."
+GonzaloExito.text,"Gonzalo logra estabilizar el sistema eléctrico temporalmente. Las luces dejan de parpadear y la mansión se siente menos opresiva.\n\n<i>'Esto debería durar un rato, pero la fuente del problema sigue ahí.'</i>\n\nLa atmósfera se aligera considerablemente."
 GonzaloExito.button1,Continuar
 
-GonzaloFallo.text,"Al intentar arreglar el sistema, Gonzalo causa un cortocircuito masivo. Chispas saltan por toda la habitaciÃ³n.\n\n<i>'Â¡Mierda! Esto estÃ¡ peor de lo que pensÃ©. Hay algo que estÃ¡ <b>drenando</b> activamente la electricidad.'</i>\n\nLa situaciÃ³n elÃ©ctrica empeora dramÃ¡ticamente."
+GonzaloFallo.text,"Al intentar arreglar el sistema, Gonzalo causa un cortocircuito masivo. Chispas saltan por toda la habitación.\n\n<i>'¡Mierda! Esto está peor de lo que pensé. Hay algo que está <b>drenando</b> activamente la electricidad.'</i>\n\nLa situación eléctrica empeora dramáticamente."
 GonzaloFallo.button1,Continuar
 
 GonzaloPedirHerramientas.text,"Gonzalo revisa su caja de herramientas y saca una llave inglesa particularmente robusta.\n\n<i>'Toma esto. Es mi llave inglesa favorita, me ha sacado de muchos problemas.'</i>\n\nLa herramienta se siente sorprendentemente bien balanceada en tus manos."
 GonzaloPedirHerramientas.button1,Continuar
 
-GonzaloAnalisisElectrico.text,"Con las luces estabilizadas, Gonzalo puede hacer un anÃ¡lisis mÃ¡s profundo del sistema elÃ©ctrico.\n\n<i>'Ahora puedo verlo claramente... La sobrecarga viene directamente del sÃ³tano. Hay algo ahÃ­ abajo que estÃ¡ drenando una cantidad masiva de energÃ­a.'</i>\n\n<color=#ff0000ff>'No es nada natural, te lo aseguro.'</color>"
+GonzaloAnalisisElectrico.text,"Con las luces estabilizadas, Gonzalo puede hacer un análisis más profundo del sistema eléctrico.\n\n<i>'Ahora puedo verlo claramente... La sobrecarga viene directamente del sótano. Hay algo ahí abajo que está drenando una cantidad masiva de energía.'</i>\n\n<color=#ff0000ff>'No es nada natural, te lo aseguro.'</color>"
 GonzaloAnalisisElectrico.button1,Continuar
 
 ; ===== MATHI - EVENTOS =====
-MathiAcercarse.text,"Mathi estÃ¡ de pie cerca de la pared, con la cabeza ligeramente ladeada como si estuviera escuchando algo muy lejano.\n\n<i>'Â¿Escuchas eso? Hay... rasguÃ±os en las paredes. Como si algo estuviera tratando de salir.'</i>\n\nSu expresiÃ³n es de preocupaciÃ³n genuina por las criaturas que pueda haber en peligro."
+MathiAcercarse.text,"Mathi está de pie cerca de la pared, con la cabeza ligeramente ladeada como si estuviera escuchando algo muy lejano.\n\n<i>'¿Escuchas eso? Hay... rasguños en las paredes. Como si algo estuviera tratando de salir.'</i>\n\nSu expresión es de preocupación genuina por las criaturas que pueda haber en peligro."
 MathiAcercarse.button1,Continuar
 
-MathiPreguntarSonidos.text,"Mathi cierra los ojos y se concentra intensamente en los sonidos.\n\n<i>'Desde el sÃ³tano viene un aullido muy dÃ©bil. No es humano... pero tampoco es completamente animal.'</i>\n\nSu rostro muestra compasiÃ³n: <color=#ff0000ff>'Sea lo que sea, estÃ¡ sufriendo.'</color>"
+MathiPreguntarSonidos.text,"Mathi cierra los ojos y se concentra intensamente en los sonidos.\n\n<i>'Desde el sótano viene un aullido muy débil. No es humano... pero tampoco es completamente animal.'</i>\n\nSu rostro muestra compasión: <color=#ff0000ff>'Sea lo que sea, está sufriendo.'</color>"
 MathiPreguntarSonidos.button1,Continuar
 
-MathiPedirAyuda.text,"Mathi saca un silbato especial de su bolsillo.\n\n<i>'Este silbato... funciona con cualquier criatura. Incluso las que no son completamente naturales.'</i>\n\nEl silbato tiene grabados extraÃ±os que parecen moverse cuando no los miras directamente."
+MathiPedirAyuda.text,"Mathi saca un silbato especial de su bolsillo.\n\n<i>'Este silbato... funciona con cualquier criatura. Incluso las que no son completamente naturales.'</i>\n\nEl silbato tiene grabados extraños que parecen moverse cuando no los miras directamente."
 MathiPedirAyuda.button1,Continuar
 
-MathiSonidosAvanzados.text,"Con las luces estabilizadas, Mathi puede concentrarse mejor en los sonidos misteriosos.\n\n<i>'Ahora lo oigo claramente... hay mÃºltiples criaturas bajo el sÃ³tano. Y... Â¿es eso un telÃ©fono sonando?'</i>\n\nSu habilidad para comunicarse con animales se extiende a estas entidades temporales."
+MathiSonidosAvanzados.text,"Con las luces estabilizadas, Mathi puede concentrarse mejor en los sonidos misteriosos.\n\n<i>'Ahora lo oigo claramente... hay múltiples criaturas bajo el sótano. Y... ¿es eso un teléfono sonando?'</i>\n\nSu habilidad para comunicarse con animales se extiende a estas entidades temporales."
 MathiSonidosAvanzados.button1,Continuar
 
 ; ===== NEHUEN - EVENTOS =====
-NehuenAcercarse.text,"Nehuen estÃ¡ apoyado contra la pared, con una expresiÃ³n de incredulidad total. Tiene su telÃ©fono en la mano, revisando mensajes.\n\n<i>'JoaquÃ­n me llamÃ³ hace unas horas diciendo que habÃ­a encontrado la forma de \"debuggear la realidad\"... pensÃ© que estaba bromeando.'</i>\n\nSu voz tiembla ligeramente."
+NehuenAcercarse.text,"Nehuen está apoyado contra la pared, con una expresión de incredulidad total. Tiene su teléfono en la mano, revisando mensajes.\n\n<i>'Joaquín me llamó hace unas horas diciendo que había encontrado la forma de \"debuggear la realidad\"... pensé que estaba bromeando.'</i>\n\nSu voz tiembla ligeramente."
 NehuenAcercarse.button1,Continuar
 
-NehuenPreguntarJoaquin.text,"Nehuen se pasa las manos por el cabello, visiblemente estresado.\n\n<i>'Estaba completamente obsesionado con revertir un error. Algo sobre una partida de LoL que arruinÃ³ todo...'</i>\n\n<color=#ff0000ff>'Nunca lo habÃ­a visto tan desesperado. Hablaba de \"segunda oportunidades\" y \"revertir el daÃ±o\".'</color>"
+NehuenPreguntarJoaquin.text,"Nehuen se pasa las manos por el cabello, visiblemente estresado.\n\n<i>'Estaba completamente obsesionado con revertir un error. Algo sobre una partida de LoL que arruinó todo...'</i>\n\n<color=#ff0000ff>'Nunca lo había visto tan desesperado. Hablaba de \"segunda oportunidades\" y \"revertir el daño\".'</color>"
 NehuenPreguntarJoaquin.button1,Continuar
 
-NehuenAnalisisLogico.text,"Nehuen saca un cuaderno lleno de diagramas y cÃ³digo.\n\n<i>'He estado analizando los patrones de lo que estÃ¡ pasando aquÃ­. Estos patrones... son cÃ­clicos, como un algoritmo atascado en un bucle infinito.'</i>\n\nÂ¿Quieres que comparta su anÃ¡lisis contigo?"
-NehuenAnalisisLogico.button1,SÃ­, muÃ©strame{action}
+NehuenAnalisisLogico.text,"Nehuen saca un cuaderno lleno de diagramas y código.\n\n<i>'He estado analizando los patrones de lo que está pasando aquí. Estos patrones... son cíclicos, como un algoritmo atascado en un bucle infinito.'</i>\n\n¿Quieres que comparta su análisis contigo?"
+NehuenAnalisisLogico.button1,Sí, muéstrame{action}
 NehuenAnalisisLogico.button2,No tengo tiempo
 
-NehuenExito.text,"Nehuen te entrega pÃ¡ginas llenas de cÃ³digo y patrones temporales decodificados.\n\n<i>'Estas notas contienen los patrones exactos del bucle temporal. Con esto podrÃ­as predecir o incluso influenciar los eventos.'</i>\n\nLas notas parecen brillar con un entendimiento casi sobrenatural."
+NehuenExito.text,"Nehuen te entrega páginas llenas de código y patrones temporales decodificados.\n\n<i>'Estas notas contienen los patrones exactos del bucle temporal. Con esto podrías predecir o incluso influenciar los eventos.'</i>\n\nLas notas parecen brillar con un entendimiento casi sobrenatural."
 NehuenExito.button1,Continuar
 
-NehuenFallo.text,"Nehuen intenta explicar los patrones, pero son demasiado complejos para transmitir completamente.\n\n<i>'Los patrones son mÃ¡s complicados de lo que pensÃ©... necesitarÃ­a mÃ¡s tiempo para decodificarlos correctamente.'</i>"
+NehuenFallo.text,"Nehuen intenta explicar los patrones, pero son demasiado complejos para transmitir completamente.\n\n<i>'Los patrones son más complicados de lo que pensé... necesitaría más tiempo para decodificarlos correctamente.'</i>"
 NehuenFallo.button1,Continuar
 
-NehuenCodigoTemporal.text,"Nehuen te muestra diagramas complejos en su cuaderno.\n\n<i>'Los algoritmos temporales... siguen lÃ³gica de programaciÃ³n perfecta. Si logramos interrumpir el patrÃ³n en el momento preciso...'</i>\n\n<color=#00ff00ff>'Â¡PodrÃ­amos romper el bucle sin daÃ±ar a JoaquÃ­n!'</color>"
+NehuenCodigoTemporal.text,"Nehuen te muestra diagramas complejos en su cuaderno.\n\n<i>'Los algoritmos temporales... siguen lógica de programación perfecta. Si logramos interrumpir el patrón en el momento preciso...'</i>\n\n<color=#00ff00ff>'¡Podríamos romper el bucle sin dañar a Joaquín!'</color>"
 NehuenCodigoTemporal.button1,Continuar
 
 ; ===== DJ ENZO - EVENTOS =====
-DJAcercarse.text,"El DJ estÃ¡ mezclando mÃºsica, pero sus selecciones son objetivamente terribles. La mÃºsica desafinada llena el ambiente.\n\n<i>El DJ estÃ¡ tocando mÃºsica en esta Ã¡rea de la casa, pero su mezcla deja mucho que desear. Te das cuenta de que poner Fer Palacio mejorarÃ­a el ambiente considerablemente.</i>"
+DJAcercarse.text,"El DJ está mezclando música, pero sus selecciones son objetivamente terribles. La música desafinada llena el ambiente.\n\n<i>El DJ está tocando música en esta área de la casa, pero su mezcla deja mucho que desear. Te das cuenta de que poner Fer Palacio mejoraría el ambiente considerablemente.</i>"
 DJAcercarse.button1,Continuar
 
-EventCambiarMusicaDj.text,"Te acercas al DJ y le haces la peticiÃ³n de manera educada pero firme.\n\n<i>'Â¿PodrÃ­as cambiar esta mÃºsica? EstÃ¡... bastante mal.'</i>"
+EventCambiarMusicaDj.text,"Te acercas al DJ y le haces la petición de manera educada pero firme.\n\n<i>'¿Podrías cambiar esta música? Está... bastante mal.'</i>"
 EventCambiarMusicaDj.button1,Ser convincente{action}
 EventCambiarMusicaDj.button2,Ser grosero
 
-EventCambiarMusicaDJ.text,"El DJ sonrÃ­e y asiente con entusiasmo.\n\n<i>'Â¡Claro! Me llamo Enzo, por cierto. Al ver que me pediste de una manera tan amigable, voy a cambiar esto inmediatamente.'</i>\n\nPone un <b>fer-pa</b> y la atmÃ³sfera mejora dramÃ¡ticamente."
+EventCambiarMusicaDJ.text,"El DJ sonríe y asiente con entusiasmo.\n\n<i>'¡Claro! Me llamo Enzo, por cierto. Al ver que me pediste de una manera tan amigable, voy a cambiar esto inmediatamente.'</i>\n\nPone un <b>fer-pa</b> y la atmósfera mejora dramáticamente."
 EventCambiarMusicaDJ.button1,Continuar
 
-DJFallo.text,"El DJ te mira con desdÃ©n.\n\n<i>'Le pediste que cambiara la mÃºsica pero como fuiste grosero, decide ignorarte completamente.'</i>\n\nLa mÃºsica terrible continÃºa."
+DJFallo.text,"El DJ te mira con desdén.\n\n<i>'Le pediste que cambiara la música pero como fuiste grosero, decide ignorarte completamente.'</i>\n\nLa música terrible continúa."
 DJFallo.button1,Continuar
 
-DJPreguntar.text,"El DJ deja de mezclar por un momento para hablarte.\n\n<i>'Me llamo Enzo. JoaquÃ­n me contratÃ³ para esta fiesta especÃ­ficamente, pero algo muy raro estÃ¡ pasando aquÃ­...'</i>\n\nParece genuinamente preocupado."
+DJPreguntar.text,"El DJ deja de mezclar por un momento para hablarte.\n\n<i>'Me llamo Enzo. Joaquín me contrató para esta fiesta específicamente, pero algo muy raro está pasando aquí...'</i>\n\nParece genuinamente preocupado."
 DJPreguntar.button1,Continuar
 
-DJEstadoCongelado.text,"Enzo estÃ¡ completamente inmÃ³vil, como una estatua de cera. Sus ojos estÃ¡n abiertos pero vidriosos.\n\n<i>El DJ estÃ¡ rÃ­gido como una estatua. Sus manos siguen en posiciÃ³n sobre los controles, pero no responde a nada.</i>\n\n<color=#ff0000ff>La mÃºsica ha parado completamente.</color>"
+DJEstadoCongelado.text,"Enzo está completamente inmóvil, como una estatua de cera. Sus ojos están abiertos pero vidriosos.\n\n<i>El DJ está rígido como una estatua. Sus manos siguen en posición sobre los controles, pero no responde a nada.</i>\n\n<color=#ff0000ff>La música ha parado completamente.</color>"
 DJEstadoCongelado.button1,Continuar
 
 ; ===== ELEMENTOS INTERACTIVOS =====
-CuadroExaminar.text,"En la pared cuelga un imponente retrato de la familia de JoaquÃ­n. Tres generaciones estÃ¡n representadas, pero algo extraÃ±o sucede con la imagen de JoaquÃ­n.\n\n<i>Los ojos del retrato parecen seguirte mientras te mueves, y la figura de JoaquÃ­n se desvanece y reaparece intermitentemente.</i>"
+CuadroExaminar.text,"En la pared cuelga un imponente retrato de la familia de Joaquín. Tres generaciones están representadas, pero algo extraño sucede con la imagen de Joaquín.\n\n<i>Los ojos del retrato parecen seguirte mientras te mueves, y la figura de Joaquín se desvanece y reaparece intermitentemente.</i>"
 CuadroExaminar.button1,Continuar
 
-CuadroConTomas.text,"TomÃ¡s examina el cuadro con ojo de experto legal y su expresiÃ³n se vuelve grave.\n\n<i>'Este testamento en el marco... hay algo fundamentalmente mal con la herencia. Las fechas no coinciden.'</i>\n\n<color=#ff0000ff>'Alguien ha estado manipulando documentos legales.'</color>"
+CuadroConTomas.text,"Tomás examina el cuadro con ojo de experto legal y su expresión se vuelve grave.\n\n<i>'Este testamento en el marco... hay algo fundamentalmente mal con la herencia. Las fechas no coinciden.'</i>\n\n<color=#ff0000ff>'Alguien ha estado manipulando documentos legales.'</color>"
 CuadroConTomas.button1,Continuar
 
-CuadroConJuli.text,"Juli se concentra intensamente en el cuadro familiar. Sus ojos se ponen en blanco momentÃ¡neamente.\n\n<i>'El cuadro muestra la verdad... JoaquÃ­n no era el heredero real. Puedo ver las firmas falsificadas, los documentos alterados...'</i>\n\n<color=#ff0000ff>'Â¡La herencia le fue robada a Luli!'</color>"
+CuadroConJuli.text,"Juli se concentra intensamente en el cuadro familiar. Sus ojos se ponen en blanco momentáneamente.\n\n<i>'El cuadro muestra la verdad... Joaquín no era el heredero real. Puedo ver las firmas falsificadas, los documentos alterados...'</i>\n\n<color=#ff0000ff>'¡La herencia le fue robada a Luli!'</color>"
 CuadroConJuli.button1,Continuar
 
-ListaExaminar.text,"Logras examinar el listado de invitados detalladamente.\n\n<i>Los nombres incluyen: Juli, TomÃ¡s, Luli, Gonzalo, Mathi, Nehuen, y otros que no reconoces.</i>\n\nAlgunos nombres tienen fechas de confirmaciÃ³n que estÃ¡n en el futuro."
+ListaExaminar.text,"Logras examinar el listado de invitados detalladamente.\n\n<i>Los nombres incluyen: Juli, Tomás, Luli, Gonzalo, Mathi, Nehuen, y otros que no reconoces.</i>\n\nAlgunos nombres tienen fechas de confirmación que están en el futuro."
 ListaExaminar.button1,Continuar
 
 ; ===== RELOJES =====
-RelojExaminar.text,"Todos los relojes de la mansiÃ³n marcan exactamente <b>11:47</b>. Las manecillas tiemblan violentamente como si lucharan contra alguna fuerza invisible.\n\n<i>Al acercarte, puedes escuchar un tictac desesperado, como si el tiempo mismo estuviera tratando de escapar.</i>"
+RelojExaminar.text,"Todos los relojes de la mansión marcan exactamente <b>11:47</b>. Las manecillas tiemblan violentamente como si lucharan contra alguna fuerza invisible.\n\n<i>Al acercarte, puedes escuchar un tictac desesperado, como si el tiempo mismo estuviera tratando de escapar.</i>"
 RelojExaminar.button1,Continuar
 
-RelojConJuli.text,"Juli se acerca al reloj y grita, llevÃ¡ndose las manos a la cabeza.\n\n<i>'Â¡Puedo verlo! Â¡Puedo ver a JoaquÃ­n atrapado dentro del mecanismo del reloj! Â¡EstÃ¡ gritando pero no puede salir!'</i>\n\nSus lÃ¡grimas caen al suelo mientras la visiÃ³n la abruma."
+RelojConJuli.text,"Juli se acerca al reloj y grita, llevándose las manos a la cabeza.\n\n<i>'¡Puedo verlo! ¡Puedo ver a Joaquín atrapado dentro del mecanismo del reloj! ¡Está gritando pero no puede salir!'</i>\n\nSus lágrimas caen al suelo mientras la visión la abruma."
 RelojConJuli.button1,Continuar
 
-RelojDestruir.text,"Â¿EstÃ¡s seguro de que quieres destruir este reloj? PodrÃ­a tener consecuencias impredecibles."
-RelojDestruir.button1,SÃ­, destruirlo{action}
+RelojDestruir.text,"¿Estás seguro de que quieres destruir este reloj? Podría tener consecuencias impredecibles."
+RelojDestruir.button1,Sí, destruirlo{action}
 RelojDestruir.button2,Mejor no
 
-RelojDestruidoExito.text,"Destruyes el reloj con un golpe certero. Por un momento, el tiempo se detiene completamente en toda la mansiÃ³n.\n\n<i>En ese instante de silencio absoluto, escuchas claramente la voz de JoaquÃ­n susurrando: 'Gracias...'</i>"
+RelojDestruidoExito.text,"Destruyes el reloj con un golpe certero. Por un momento, el tiempo se detiene completamente en toda la mansión.\n\n<i>En ese instante de silencio absoluto, escuchas claramente la voz de Joaquín susurrando: 'Gracias...'</i>"
 RelojDestruidoExito.button1,Continuar
 
-RelojDestruidoFallo.text,"Al intentar destruir el reloj, liberas una onda de energÃ­a temporal que te golpea directamente.\n\n<i>Ves flashes de eventos pasados y futuros simultÃ¡neamente. La experiencia es abrumadoramente aterradora.</i>"
+RelojDestruidoFallo.text,"Al intentar destruir el reloj, liberas una onda de energía temporal que te golpea directamente.\n\n<i>Ves flashes de eventos pasados y futuros simultáneamente. La experiencia es abrumadoramente aterradora.</i>"
 RelojDestruidoFallo.button1,Continuar
 
 ; ===== ESPEJO =====
-EspejoExaminar.text,"El espejo del baÃ±o estÃ¡ parcialmente roto, con grietas que forman patrones extraÃ±os. Tu reflejo se mueve un segundo despuÃ©s que tÃº.\n\n<i>En las grietas del espejo, ocasionalmente puedes ver a alguien detrÃ¡s de ti, pero al girarte no hay nadie.</i>"
+EspejoExaminar.text,"El espejo del baño está parcialmente roto, con grietas que forman patrones extraños. Tu reflejo se mueve un segundo después que tú.\n\n<i>En las grietas del espejo, ocasionalmente puedes ver a alguien detrás de ti, pero al girarte no hay nadie.</i>"
 EspejoExaminar.button1,Continuar
 
-EspejoConLuli.text,"Luli toca suavemente la superficie del espejo roto.\n\n<i>'JoaquÃ­n solÃ­a hablar con su reflejo cuando era niÃ±o... decÃ­a que su reflejo le daba mejores consejos que cualquier adulto.'</i>\n\n<color=#ff0000ff>'Tal vez... tal vez su reflejo sigue aquÃ­, atrapado.'</color>"
+EspejoConLuli.text,"Luli toca suavemente la superficie del espejo roto.\n\n<i>'Joaquín solía hablar con su reflejo cuando era niño... decía que su reflejo le daba mejores consejos que cualquier adulto.'</i>\n\n<color=#ff0000ff>'Tal vez... tal vez su reflejo sigue aquí, atrapado.'</color>"
 EspejoConLuli.button1,Continuar
 
-EspejoMultiple.text,"Con mÃºltiples personas frente al espejo, algo extraordinario sucede.\n\n<i>Todos los reflejos comienzan a escribir la misma palabra en el vaho del espejo: 'AYUDA'</i>\n\nLa palabra aparece una y otra vez, escrita por manos invisibles."
+EspejoMultiple.text,"Con múltiples personas frente al espejo, algo extraordinario sucede.\n\n<i>Todos los reflejos comienzan a escribir la misma palabra en el vaho del espejo: 'AYUDA'</i>\n\nLa palabra aparece una y otra vez, escrita por manos invisibles."
 EspejoMultiple.button1,Continuar
 
 ; ===== PIANO =====
-PianoExaminar.text,"Un piano de cola elegante domina esta esquina del salÃ³n. Las teclas se mueven solas, tocando la misma melodÃ­a melancÃ³lica una y otra vez.\n\n<i>La melodÃ­a es hermosa pero profundamente triste, como si el piano mismo estuviera llorando.</i>"
+PianoExaminar.text,"Un piano de cola elegante domina esta esquina del salón. Las teclas se mueven solas, tocando la misma melodía melancólica una y otra vez.\n\n<i>La melodía es hermosa pero profundamente triste, como si el piano mismo estuviera llorando.</i>"
 PianoExaminar.button1,Continuar
 
-PianoConNehuen.text,"Nehuen se acerca al piano y su rostro se pone pÃ¡lido de inmediato.\n\n<i>'Â¡Dios mÃ­o! Â¡Es el tema de muerte de League of Legends! JoaquÃ­n lo escuchÃ³ miles de veces...'</i>\n\n<color=#ff0000ff>'Cada vez que perdÃ­a una partida importante, ponÃ­a esta canciÃ³n y se quedaba ahÃ­ horas.'</color>"
+PianoConNehuen.text,"Nehuen se acerca al piano y su rostro se pone pálido de inmediato.\n\n<i>'¡Dios mío! ¡Es el tema de muerte de League of Legends! Joaquín lo escuchó miles de veces...'</i>\n\n<color=#ff0000ff>'Cada vez que perdía una partida importante, ponía esta canción y se quedaba ahí horas.'</color>"
 PianoConNehuen.button1,Continuar
 
-PianoConNotas.text,"Con las notas criptogrÃ¡ficas de Nehuen, puedes descifrar el patrÃ³n musical del piano.\n\n<i>La melodÃ­a no es solo mÃºsica... es cÃ³digo temporal traducido a notas. Cada acorde representa un momento especÃ­fico en el bucle.</i>\n\n<color=#00ff00ff>Ahora entiendes el ritmo exacto del bucle temporal.</color>"
+PianoConNotas.text,"Con las notas criptográficas de Nehuen, puedes descifrar el patrón musical del piano.\n\n<i>La melodía no es solo música... es código temporal traducido a notas. Cada acorde representa un momento específico en el bucle.</i>\n\n<color=#00ff00ff>Ahora entiendes el ritmo exacto del bucle temporal.</color>"
 PianoConNotas.button1,Continuar
 
-; ===== TELÃ‰FONO =====
-TelefonoLlamada1.text,"El telÃ©fono antiguo suena insistentemente. Al contestar, escuchas una voz familiar pero distorsionada.\n\n<i>La voz de JoaquÃ­n, desesperada: 'No debÃ­ hacerlo... no debÃ­ hacerlo... el precio fue demasiado alto...'</i>\n\nLa lÃ­nea se corta abruptamente."
+; ===== TELÉFONO =====
+TelefonoLlamada1.text,"El teléfono antiguo suena insistentemente. Al contestar, escuchas una voz familiar pero distorsionada.\n\n<i>La voz de Joaquín, desesperada: 'No debí hacerlo... no debí hacerlo... el precio fue demasiado alto...'</i>\n\nLa línea se corta abruptamente."
 TelefonoLlamada1.button1,Continuar
 
-TelefonoLlamada2.text,"El telÃ©fono vuelve a sonar. Esta vez la voz de JoaquÃ­n es mÃ¡s clara pero mÃ¡s aterrada.\n\n<i>'El LoL fue solo el comienzo... vendÃ­ mi alma por una segunda oportunidad que nunca llegÃ³...'</i>\n\n<color=#ff0000ff>'La entidad... me engaÃ±Ã³...'</color>"
+TelefonoLlamada2.text,"El teléfono vuelve a sonar. Esta vez la voz de Joaquín es más clara pero más aterrada.\n\n<i>'El LoL fue solo el comienzo... vendí mi alma por una segunda oportunidad que nunca llegó...'</i>\n\n<color=#ff0000ff>'La entidad... me engañó...'</color>"
 TelefonoLlamada2.button1,Continuar
 
-TelefonoLlamada3.text,"La tercera llamada es urgente, casi gritando.\n\n<i>'Â¡Busquen el sÃ³tano... antes de las 11:30! Â¡Si el tiempo retrocede mÃ¡s, todos quedarÃ¡n atrapados conmigo!'</i>\n\nEsta vez puedes escuchar ruidos de fondo: algo grande moviÃ©ndose."
+TelefonoLlamada3.text,"La tercera llamada es urgente, casi gritando.\n\n<i>'¡Busquen el sótano... antes de las 11:30! ¡Si el tiempo retrocede más, todos quedarán atrapados conmigo!'</i>\n\nEsta vez puedes escuchar ruidos de fondo: algo grande moviéndose."
 TelefonoLlamada3.button1,Continuar
 
-TelefonoSilencio.text,"El telÃ©fono estÃ¡ completamente muerto. No hay tono, no hay estÃ¡tica, solo silencio absoluto.\n\n<i>El silencio es mÃ¡s aterrador que cualquier sonido que hubiera podido hacer.</i>"
+TelefonoSilencio.text,"El teléfono está completamente muerto. No hay tono, no hay estática, solo silencio absoluto.\n\n<i>El silencio es más aterrador que cualquier sonido que hubiera podido hacer.</i>"
 TelefonoSilencio.button1,Continuar
 
 ; ===== EVENTOS FINALES =====
-EventRelojMaestro.text,"Desciendes al sÃ³tano y te encuentras en una habitaciÃ³n circular con un reloj gigante en el centro. Las manecillas giran enloquecidas hacia atrÃ¡s, y en el pÃ©ndulo de cristal puedes ver claramente la silueta de JoaquÃ­n.\n\n<i>Ã‰l te ve y golpea desesperadamente el cristal desde adentro. Sus labios forman las palabras: 'AyÃºdenme... por favor...'</i>\n\n<color=#ff0000ff
+EventRelojMaestro.text,"Desciendes al sótano y te encuentras en una habitación circular con un reloj gigante en el centro. Las manecillas giran enloquecidas hacia atrás, y en el péndulo de cristal puedes ver claramente la silueta de Joaquín.\n\n<i>Él te ve y golpea desesperadamente el cristal desde adentro. Sus labios forman las palabras: 'Ayúdenme... por favor...'</i>"
+EventRelojMaest
